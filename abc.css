@@ -1,0 +1,266 @@
+body
+{
+    font-style: normal;
+    font-size: la;
+    background-image: url("website-hero-1.png");
+    
+
+background-attachment: fixed;
+}
+.r
+{
+    color: blue;
+   
+   margin-left:20px; 
+   margin-top: 100px;
+   text-decoration: underline;
+}
+
+#menu
+{
+<!-- background: rgba(0,0,0,0.5); -->
+color:white;
+background:linear-gradient(rgb(57, 57, 237),red);
+text-align:right;
+
+}
+
+#mymenu ul li:hover
+{
+background:greenyellow;
+
+}
+
+#mymenu ul li
+{
+
+display: inline-block ;
+padding:10;
+margin-left: 50px;
+
+color:white;
+
+}
+.A
+{
+color:white;
+text-decoration: none;
+}
+table
+{
+background: rgba(0,0,0,0.5);
+color:rgb(213, 31, 31);
+margin-top: 10px;
+
+width: 1120;
+height: 200;
+box-shadow: 10px 10px 10px 10px white;
+}
+
+.B
+{
+
+width: 85px;
+height: 40px;
+background:green;
+color: white;
+border-radius: 0px 40px 0px 40px;
+}
+
+.c
+{
+width: 200px;
+height: 100px;
+}
+.B:hover
+{
+width: 85px;
+height: 40px;
+background: linear-gradient(to right,black,red);
+color:white;
+border-radius: 40px,0px,40px,0px;
+
+}
+
+.A
+{
+color:black;
+background-color: ;
+text-decoration:none;
+}
+
+.ser
+{
+    color:red;
+background-color: ;
+text-decoration:none;
+}
+
+.F
+{
+color:blue;
+background-color:;
+text-decoration:none;
+}
+.F:hover
+{
+    background-color:aqua;
+ 
+}
+
+.D
+{
+width: 372px;
+height: 340px;
+box-shadow: 10px 10px 10px 10px linear-gradient(rgb(57, 57, 237),red);
+
+background:linear-gradient(rgb(57, 57, 237),red);
+}
+
+.D:hover
+{
+width: 370px;
+height: 300px;
+background: linear-gradient(to right,black,red);
+color:white;
+border-style: dashed;
+
+
+}
+
+
+.E
+{
+
+    width: 1700px;
+    height: 50px;
+background:linear-gradient(yellow,green);
+color: white;
+align:left;
+border-radius: 0px 40px o px 40px;
+}
+
+
+
+.l
+{
+    width: 1700px;
+    height: 160px;
+    box-shadow: 10px 10px 10px goldenrod;
+}
+.l:hover
+{
+   
+}
+.G
+{
+
+    margin-left: 1500;
+    align-items:end;
+    margin-top: 0;
+    width: 180px;
+    height: 180px;
+    box-shadow: 10px 10px 10px yellowgreen;
+}
+#A
+{
+color:aqua;
+text-decoration: none;
+}
+.p
+{
+
+    width: 300;
+    height: 200;
+}
+.p:hover
+{
+margin-left: auto;
+box-shadow: 10px 10px 10px 10px yellowgreen;
+border-radius: 20px;
+
+}
+.w
+{
+margin: top 20px;;
+width: 900;
+height: 400;
+}
+.s
+{
+box-shadow: 10px 10px 10px greenyellow;
+width: 300;
+    height: 300;
+    border-radius: 20px;
+}
+.s:hover
+{
+    box-shadow: 10px 10px 10px red;
+    border-style:groove;
+}
+.wel
+{
+    width: 800px;
+    height: 400px;;
+    margin-top: 20px;
+margin-left:0px;
+color: aqua;
+
+}
+
+
+.left-image {
+    float: right;
+    height: 180px;
+    
+    margin-right: 0px; /* Optional: To add some space between the images */
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    text-align: left;
+}
+
+.footer-content a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.par
+{
+     color:hsl(0, 0%, 0%);
+      margin-top: 10px;
+      font-size: 18px;
+       text-justify: auto;
+       
+
+}
+ .hed
+{
+color: blue ;
+margin-left: 20pxs; 
+margin-top: 50px;
+text-decoration: underline;
+}
+.line
+{
+
+    height:5px; 
+    width:1750;
+    border-width:3px;
+   margin-right: 450;
+     float: right;
+    background-color:greenyellow;
+}
+.list
+{
+    color:hsl(13, 68%, 50%);
+     font-size: 18px;
+     text-justify: auto;
+}
